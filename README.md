@@ -1,2 +1,2 @@
 # android-exam
-Exam in Android Programming, 4th semester. Grade: A
+Exam in Android Programming, 3rd semester. Grade: A
